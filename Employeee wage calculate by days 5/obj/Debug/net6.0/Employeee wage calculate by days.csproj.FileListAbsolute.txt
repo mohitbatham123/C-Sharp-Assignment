@@ -1,0 +1,15 @@
+C:\Users\Ragnar lothbrok\Desktop\.net\Console1\Employeee wage calculate by days\bin\Debug\net6.0\Employeee wage calculate by days.exe
+C:\Users\Ragnar lothbrok\Desktop\.net\Console1\Employeee wage calculate by days\bin\Debug\net6.0\Employeee wage calculate by days.deps.json
+C:\Users\Ragnar lothbrok\Desktop\.net\Console1\Employeee wage calculate by days\bin\Debug\net6.0\Employeee wage calculate by days.runtimeconfig.json
+C:\Users\Ragnar lothbrok\Desktop\.net\Console1\Employeee wage calculate by days\bin\Debug\net6.0\Employeee wage calculate by days.dll
+C:\Users\Ragnar lothbrok\Desktop\.net\Console1\Employeee wage calculate by days\bin\Debug\net6.0\Employeee wage calculate by days.pdb
+C:\Users\Ragnar lothbrok\Desktop\.net\Console1\Employeee wage calculate by days\obj\Debug\net6.0\Employeee wage calculate by days.csproj.AssemblyReference.cache
+C:\Users\Ragnar lothbrok\Desktop\.net\Console1\Employeee wage calculate by days\obj\Debug\net6.0\Employeee wage calculate by days.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Ragnar lothbrok\Desktop\.net\Console1\Employeee wage calculate by days\obj\Debug\net6.0\Employeee wage calculate by days.AssemblyInfoInputs.cache
+C:\Users\Ragnar lothbrok\Desktop\.net\Console1\Employeee wage calculate by days\obj\Debug\net6.0\Employeee wage calculate by days.AssemblyInfo.cs
+C:\Users\Ragnar lothbrok\Desktop\.net\Console1\Employeee wage calculate by days\obj\Debug\net6.0\Employeee wage calculate by days.csproj.CoreCompileInputs.cache
+C:\Users\Ragnar lothbrok\Desktop\.net\Console1\Employeee wage calculate by days\obj\Debug\net6.0\Employeee wage calculate by days.dll
+C:\Users\Ragnar lothbrok\Desktop\.net\Console1\Employeee wage calculate by days\obj\Debug\net6.0\refint\Employeee wage calculate by days.dll
+C:\Users\Ragnar lothbrok\Desktop\.net\Console1\Employeee wage calculate by days\obj\Debug\net6.0\Employeee wage calculate by days.pdb
+C:\Users\Ragnar lothbrok\Desktop\.net\Console1\Employeee wage calculate by days\obj\Debug\net6.0\Employeee wage calculate by days.genruntimeconfig.cache
+C:\Users\Ragnar lothbrok\Desktop\.net\Console1\Employeee wage calculate by days\obj\Debug\net6.0\ref\Employeee wage calculate by days.dll

@@ -1,0 +1,15 @@
+C:\Users\Ragnar lothbrok\Desktop\.net\Console1\switchcasestatement\bin\Debug\net6.0\switchcasestatement.exe
+C:\Users\Ragnar lothbrok\Desktop\.net\Console1\switchcasestatement\bin\Debug\net6.0\switchcasestatement.deps.json
+C:\Users\Ragnar lothbrok\Desktop\.net\Console1\switchcasestatement\bin\Debug\net6.0\switchcasestatement.runtimeconfig.json
+C:\Users\Ragnar lothbrok\Desktop\.net\Console1\switchcasestatement\bin\Debug\net6.0\switchcasestatement.dll
+C:\Users\Ragnar lothbrok\Desktop\.net\Console1\switchcasestatement\bin\Debug\net6.0\switchcasestatement.pdb
+C:\Users\Ragnar lothbrok\Desktop\.net\Console1\switchcasestatement\obj\Debug\net6.0\switchcasestatement.csproj.AssemblyReference.cache
+C:\Users\Ragnar lothbrok\Desktop\.net\Console1\switchcasestatement\obj\Debug\net6.0\switchcasestatement.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Ragnar lothbrok\Desktop\.net\Console1\switchcasestatement\obj\Debug\net6.0\switchcasestatement.AssemblyInfoInputs.cache
+C:\Users\Ragnar lothbrok\Desktop\.net\Console1\switchcasestatement\obj\Debug\net6.0\switchcasestatement.AssemblyInfo.cs
+C:\Users\Ragnar lothbrok\Desktop\.net\Console1\switchcasestatement\obj\Debug\net6.0\switchcasestatement.csproj.CoreCompileInputs.cache
+C:\Users\Ragnar lothbrok\Desktop\.net\Console1\switchcasestatement\obj\Debug\net6.0\switchcasestatement.dll
+C:\Users\Ragnar lothbrok\Desktop\.net\Console1\switchcasestatement\obj\Debug\net6.0\refint\switchcasestatement.dll
+C:\Users\Ragnar lothbrok\Desktop\.net\Console1\switchcasestatement\obj\Debug\net6.0\switchcasestatement.pdb
+C:\Users\Ragnar lothbrok\Desktop\.net\Console1\switchcasestatement\obj\Debug\net6.0\switchcasestatement.genruntimeconfig.cache
+C:\Users\Ragnar lothbrok\Desktop\.net\Console1\switchcasestatement\obj\Debug\net6.0\ref\switchcasestatement.dll

@@ -1,0 +1,15 @@
+C:\Users\Ragnar lothbrok\Desktop\.net\Console1\mysecondproject\bin\Debug\net6.0\mysecondproject.exe
+C:\Users\Ragnar lothbrok\Desktop\.net\Console1\mysecondproject\bin\Debug\net6.0\mysecondproject.deps.json
+C:\Users\Ragnar lothbrok\Desktop\.net\Console1\mysecondproject\bin\Debug\net6.0\mysecondproject.runtimeconfig.json
+C:\Users\Ragnar lothbrok\Desktop\.net\Console1\mysecondproject\bin\Debug\net6.0\mysecondproject.dll
+C:\Users\Ragnar lothbrok\Desktop\.net\Console1\mysecondproject\bin\Debug\net6.0\mysecondproject.pdb
+C:\Users\Ragnar lothbrok\Desktop\.net\Console1\mysecondproject\obj\Debug\net6.0\mysecondproject.csproj.AssemblyReference.cache
+C:\Users\Ragnar lothbrok\Desktop\.net\Console1\mysecondproject\obj\Debug\net6.0\mysecondproject.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Ragnar lothbrok\Desktop\.net\Console1\mysecondproject\obj\Debug\net6.0\mysecondproject.AssemblyInfoInputs.cache
+C:\Users\Ragnar lothbrok\Desktop\.net\Console1\mysecondproject\obj\Debug\net6.0\mysecondproject.AssemblyInfo.cs
+C:\Users\Ragnar lothbrok\Desktop\.net\Console1\mysecondproject\obj\Debug\net6.0\mysecondproject.csproj.CoreCompileInputs.cache
+C:\Users\Ragnar lothbrok\Desktop\.net\Console1\mysecondproject\obj\Debug\net6.0\mysecondproject.dll
+C:\Users\Ragnar lothbrok\Desktop\.net\Console1\mysecondproject\obj\Debug\net6.0\refint\mysecondproject.dll
+C:\Users\Ragnar lothbrok\Desktop\.net\Console1\mysecondproject\obj\Debug\net6.0\mysecondproject.pdb
+C:\Users\Ragnar lothbrok\Desktop\.net\Console1\mysecondproject\obj\Debug\net6.0\mysecondproject.genruntimeconfig.cache
+C:\Users\Ragnar lothbrok\Desktop\.net\Console1\mysecondproject\obj\Debug\net6.0\ref\mysecondproject.dll

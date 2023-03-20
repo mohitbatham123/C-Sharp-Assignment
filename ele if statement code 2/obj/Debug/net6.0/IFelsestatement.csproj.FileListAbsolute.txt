@@ -1,0 +1,15 @@
+C:\Users\Ragnar lothbrok\Desktop\.net\Console1\mysecondproject\bin\Debug\net6.0\IFelsestatement.exe
+C:\Users\Ragnar lothbrok\Desktop\.net\Console1\mysecondproject\bin\Debug\net6.0\IFelsestatement.deps.json
+C:\Users\Ragnar lothbrok\Desktop\.net\Console1\mysecondproject\bin\Debug\net6.0\IFelsestatement.runtimeconfig.json
+C:\Users\Ragnar lothbrok\Desktop\.net\Console1\mysecondproject\bin\Debug\net6.0\IFelsestatement.dll
+C:\Users\Ragnar lothbrok\Desktop\.net\Console1\mysecondproject\bin\Debug\net6.0\IFelsestatement.pdb
+C:\Users\Ragnar lothbrok\Desktop\.net\Console1\mysecondproject\obj\Debug\net6.0\IFelsestatement.csproj.AssemblyReference.cache
+C:\Users\Ragnar lothbrok\Desktop\.net\Console1\mysecondproject\obj\Debug\net6.0\IFelsestatement.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Ragnar lothbrok\Desktop\.net\Console1\mysecondproject\obj\Debug\net6.0\IFelsestatement.AssemblyInfoInputs.cache
+C:\Users\Ragnar lothbrok\Desktop\.net\Console1\mysecondproject\obj\Debug\net6.0\IFelsestatement.AssemblyInfo.cs
+C:\Users\Ragnar lothbrok\Desktop\.net\Console1\mysecondproject\obj\Debug\net6.0\IFelsestatement.csproj.CoreCompileInputs.cache
+C:\Users\Ragnar lothbrok\Desktop\.net\Console1\mysecondproject\obj\Debug\net6.0\IFelsestatement.dll
+C:\Users\Ragnar lothbrok\Desktop\.net\Console1\mysecondproject\obj\Debug\net6.0\refint\IFelsestatement.dll
+C:\Users\Ragnar lothbrok\Desktop\.net\Console1\mysecondproject\obj\Debug\net6.0\IFelsestatement.pdb
+C:\Users\Ragnar lothbrok\Desktop\.net\Console1\mysecondproject\obj\Debug\net6.0\IFelsestatement.genruntimeconfig.cache
+C:\Users\Ragnar lothbrok\Desktop\.net\Console1\mysecondproject\obj\Debug\net6.0\ref\IFelsestatement.dll

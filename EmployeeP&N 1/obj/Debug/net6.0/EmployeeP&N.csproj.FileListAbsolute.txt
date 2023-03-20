@@ -1,0 +1,15 @@
+C:\Users\Ragnar lothbrok\Desktop\.net\Console1\EmployeeP&N\obj\Debug\net6.0\EmployeeP&N.csproj.AssemblyReference.cache
+C:\Users\Ragnar lothbrok\Desktop\.net\Console1\EmployeeP&N\obj\Debug\net6.0\EmployeeP&N.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Ragnar lothbrok\Desktop\.net\Console1\EmployeeP&N\obj\Debug\net6.0\EmployeeP&N.AssemblyInfoInputs.cache
+C:\Users\Ragnar lothbrok\Desktop\.net\Console1\EmployeeP&N\obj\Debug\net6.0\EmployeeP&N.AssemblyInfo.cs
+C:\Users\Ragnar lothbrok\Desktop\.net\Console1\EmployeeP&N\obj\Debug\net6.0\EmployeeP&N.csproj.CoreCompileInputs.cache
+C:\Users\Ragnar lothbrok\Desktop\.net\Console1\EmployeeP&N\bin\Debug\net6.0\EmployeeP&N.exe
+C:\Users\Ragnar lothbrok\Desktop\.net\Console1\EmployeeP&N\bin\Debug\net6.0\EmployeeP&N.deps.json
+C:\Users\Ragnar lothbrok\Desktop\.net\Console1\EmployeeP&N\bin\Debug\net6.0\EmployeeP&N.runtimeconfig.json
+C:\Users\Ragnar lothbrok\Desktop\.net\Console1\EmployeeP&N\bin\Debug\net6.0\EmployeeP&N.dll
+C:\Users\Ragnar lothbrok\Desktop\.net\Console1\EmployeeP&N\bin\Debug\net6.0\EmployeeP&N.pdb
+C:\Users\Ragnar lothbrok\Desktop\.net\Console1\EmployeeP&N\obj\Debug\net6.0\EmployeeP&N.dll
+C:\Users\Ragnar lothbrok\Desktop\.net\Console1\EmployeeP&N\obj\Debug\net6.0\refint\EmployeeP&N.dll
+C:\Users\Ragnar lothbrok\Desktop\.net\Console1\EmployeeP&N\obj\Debug\net6.0\EmployeeP&N.pdb
+C:\Users\Ragnar lothbrok\Desktop\.net\Console1\EmployeeP&N\obj\Debug\net6.0\EmployeeP&N.genruntimeconfig.cache
+C:\Users\Ragnar lothbrok\Desktop\.net\Console1\EmployeeP&N\obj\Debug\net6.0\ref\EmployeeP&N.dll

@@ -1,0 +1,23 @@
+{
+  "runtimeTarget": {
+    "name": ".NETCoreApp,Version=v6.0",
+    "signature": ""
+  },
+  "compilationOptions": {},
+  "targets": {
+    ".NETCoreApp,Version=v6.0": {
+      "Employeee wage calculate by days/1.0.0": {
+        "runtime": {
+          "Employeee wage calculate by days.dll": {}
+        }
+      }
+    }
+  },
+  "libraries": {
+    "Employeee wage calculate by days/1.0.0": {
+      "type": "project",
+      "serviceable": false,
+      "sha512": ""
+    }
+  }
+}
