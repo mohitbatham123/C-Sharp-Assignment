@@ -10,10 +10,6 @@
         {
             emphrs = 8;
         }
-        else if(employe_part_time==emcheck)   // we apply else if condition employee is part time
-        {
-            emphrs = 4;
-        }
         else                       // by defaulte else is shows employee is absentm and 
         {
             emphrs = 0;
