@@ -6,21 +6,17 @@
 
 //namespace EmoyeeManagement
 //{
-//    internal class Class6
+//    internal class Class5
 //    {
-//        public static void Employeewhileloop()
+//        public static void Employeforloop()
 //        {
 //            const int full_time = 1;
 //            const int PART_time = 2;
-//            const int Num_of_working_days = 20;
-//            const int Max_hrs_in_month = 100;
-//            int Emp_rate_hour = 20, Emphrs = 0, Employeewage = 0, totalemphrs = 0, Totalemployeewage = 0;   // Defining the varialbles we use in this code 
-//            int total_workingdays = 0;
-//            while (total_workingdays <= Max_hrs_in_month || total_workingdays < Num_of_working_days)                      // we apply for loop  to execuate until condition is false 
+//            int Emp_rate_hour = 20, Emphrs = 0, Employeewage = 0, Day, Totalemployeewage = 0, Total_working_hour = 0;    // Defining the varialbles we use in this code 
+//            for (Day = 1; Day <= 20; Day++)                      // we apply for loop  to execuate until condition is false 
 //            {
-//                total_workingdays++;
 //                Random random = new Random();             // Random they give the number randomly
-//                int Check_employee_working = random.Next(0, 3);
+//                int Check_employee_working = random.Next(0, 2);
 
 //                // we use switch case when employee working part time and full time 
 //                switch (Check_employee_working)
@@ -36,14 +32,13 @@
 //                        break;
 //                }
 //                Employeewage = Emphrs * Emp_rate_hour;                  // calculate the employeee wage 
-//                Totalemployeewage += Employeewage;
-//                totalemphrs += Emphrs;
-//                                                                   // total emplyee wage stored in a variable total employeewage
+//                Total_working_hour = (Total_working_hour + Emphrs);
+//                Totalemployeewage += Employeewage;                     // total emplyee wage stored in a variable total employeewage
 //                Console.WriteLine("Employee wage :" + Employeewage);  // they display out the employeewage in 20 working days    
 
 //            }
 //            Console.WriteLine("---------------------------------------------------------");
-//            Console.WriteLine("Employee total working hour" + totalemphrs);
+//            Console.WriteLine("Employee total working hour" + Total_working_hour);
 //            Console.WriteLine("Total employee wage = " + Totalemployeewage); // they display out the totalemployeewage
 //        }
 //    }
